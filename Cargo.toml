@@ -1,5 +1,5 @@
 [package]
-name = "super-list"
+name = "rust-testing"
 version = "0.1.0"
 authors = ["EzZz"]
 edition = "2018"
